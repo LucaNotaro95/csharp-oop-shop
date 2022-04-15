@@ -96,7 +96,7 @@ namespace CSharp_Shop
 
         public string nomeEsteso()
         {
-            return "Nome esteso:\t" + codice + " - " + nome + "\n";
+            return "Nom esteso:\t" + codice + " - " + nome + "\n";
         }
 
         private string formattaCodice()
